@@ -1,0 +1,4 @@
+- 👋 Olá, sou Isabela Caris
+- 🌱 Atualmente estou aprendendo Python
+- 💞️ Estou cursando DSM (Desenvolvimento de Software Multiplataforma)
+- 📫 Como chegar até mim https://www.linkedin.com/in/isabela-caris-397b17207/
